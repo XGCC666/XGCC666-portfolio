@@ -1,8 +1,0 @@
-node_modules/
-dist/
-private/
-*.log
-qa-*.png
-.vercel/
-.netlify/
-.DS_Store
