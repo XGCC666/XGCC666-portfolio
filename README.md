@@ -1,3 +1,3 @@
 ﻿# XGCC666 Portfolio
 
-Static GitHub Pages build generated from `XGCC666-portfolio-source`.
+请访问https://xgcc666.github.io/XGCC666-portfolio/
